@@ -10,3 +10,6 @@ const mockSupabase = {
 };
 
 export const supabase = mockSupabase;
+// in supabaseClient.ts
+const supabaseUrl = 'YOUR_SUPABASE_URL';  https://zeciiytbgeqwroouygvs.supabase.co
+const supabaseAnonKey = 'YOUR_SUPABASE_ANON_KEY'; eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InplY2lpeXRiZ2Vxd3Jvb3V5Z3ZzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg4OTgzMDAsImV4cCI6MjA3NDQ3NDMwMH0.iO4MLzDXZmPp27Nd0PJ058cUyXIB9_hhQOvv6TgcurQ
